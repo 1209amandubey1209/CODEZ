@@ -1,0 +1,23 @@
+  .tutorials-data{
+    color: white;
+    padding: 10px 10px;
+    font-size: 20px;
+    font-weight: 500;
+    transition: all;
+    
+}
+.tutorials-data:hover{
+    background-color: white;
+    color: black;
+    transition: 500ms;
+}
+.top-heading{
+    margin: 30px;
+}
+#tutorials-list{
+    z-index: 999;
+}
+#tutorialslist{
+    background-color: black;
+}
+

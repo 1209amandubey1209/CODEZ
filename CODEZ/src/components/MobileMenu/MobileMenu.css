@@ -1,0 +1,36 @@
+.mobileMenu-navLinks{
+    text-decoration: none;
+    color: black
+}
+.MobileMenu-sections{
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    
+
+}
+
+.MobileMenu-sections:hover{
+    background-color: rgb(199, 196, 196);
+
+}
+.MobileMenu-sections-signup {
+    background-color: white;
+    font-size: 20px;
+    height: 50px;
+    
+}
+.MobileMenu-sections-signup:hover {
+    background-color: green;
+    color: white;
+    
+}
+.mobileMenu-navLinks-signup{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.mobileMenu-navLinks-signup:hover{
+    color: white
+}

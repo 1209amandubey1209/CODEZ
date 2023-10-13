@@ -1,0 +1,40 @@
+.nav{
+    background-color:#793FDF;
+    color: white;
+    
+}
+#logo{
+    text-decoration: none;
+}
+section{
+    text-decoration: none;
+    color:white;
+    transition: all;
+}
+.menu-btn{
+    text-decoration: none;
+    color:#793FDF;
+    background-color: white;  
+    
+}
+
+section:hover{
+    background-color:#7091F5;
+    cursor: pointer;
+    transition: 200ms;
+}
+.menu-btn:hover{
+    background-color:#7091F5 ;
+    color: black;
+    border-radius: 5px;
+}
+.header-navlink{
+    text-decoration: none;
+    color: white;
+    
+}
+/* .active{
+    background-color:#000000 ;
+    color: white;
+    
+} */

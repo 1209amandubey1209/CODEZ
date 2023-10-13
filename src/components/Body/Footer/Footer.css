@@ -1,0 +1,13 @@
+.top-tutorial-item,
+.top-exercise-item,
+.top-examples-item,
+.top-certificates-item{
+    text-decoration: none;
+    color: black;
+}
+.top-tutorial-item:hover,
+.top-exercise-item:hover,
+.top-examples-item:hover,
+.top-certificates-item:hover{
+    font-weight: 500;
+}

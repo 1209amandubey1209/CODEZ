@@ -1,0 +1,27 @@
+{
+    "users":[
+    {
+     "username":"aman",
+     "email":"a@gm",
+     "phone":9193594144,
+     "password":"Aman@123456"
+    },
+    {
+        "username":"aman",
+        "email":"a@gm",
+        "phone":9193594144,
+        "password":"Aman@123456"
+       }
+       ,{
+        "username":"aman",
+        "email":"a@gm",
+        "phone":9193594144,
+        "password":"Aman@123456"
+       },
+       {
+        "username":"aman",
+        "email":"a@gm",
+        "phone":9193594144,
+        "password":"Aman@123456"
+       }
+]}

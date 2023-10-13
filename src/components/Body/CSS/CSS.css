@@ -1,0 +1,17 @@
+.list-itmes{
+    margin-top: 10px;
+}
+#sidebar-item{
+    color: black;
+    cursor: pointer;
+    text-decoration-style: none;
+}
+#sidebar-item:hover{
+    box-shadow: 0 0 10px gray;
+
+}
+
+h1{
+    text-align: center;
+    
+}

@@ -1463,7 +1463,7 @@ const IconsContentList=[
     },
     {
         title:"Icons Halloween",
-        path:"/iconstutorial/icons-helloween"
+        path:"/iconstutorial/icons-halloween"
     },
     {
         title:"Icons Hands",
@@ -1510,8 +1510,8 @@ const IconsContentList=[
         path:"/iconstutorial/icons-marketing"
     },
     {   
-        title:"Font Mathematics",
-        path:"/iconstutorial/font-mathematics",
+        title:"Icons Mathematics",
+        path:"/iconstutorial/icons-mathematics",
     },
     {
         title:"Icons Medical",

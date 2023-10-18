@@ -1,6 +1,6 @@
 import React from 'react'
 import JQuerySidebar from './Content/JQuerySidebar';
-import './JQuery.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 function JQuery() {

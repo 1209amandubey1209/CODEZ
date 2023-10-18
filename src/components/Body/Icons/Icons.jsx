@@ -1,6 +1,6 @@
 import React from 'react'
 import IconsSidebar from './Content/IconsSidebar';
-import './Icons.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 function Icons() {

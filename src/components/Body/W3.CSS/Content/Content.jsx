@@ -1,5 +1,5 @@
 import React from "react";
-import "../W3CSS.css";
+import "../.././Style/style.css";
 import Footer from "../../Footer/Footer";
 
 //W3.CSS Intro====================================================

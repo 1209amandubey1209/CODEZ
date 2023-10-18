@@ -1,6 +1,6 @@
 import React from 'react'
 import JavascriptSidebar from './Content/JavascriptSidebar';
-import './Javascript.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 function Javascript() {

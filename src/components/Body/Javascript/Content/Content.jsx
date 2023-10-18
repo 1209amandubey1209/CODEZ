@@ -1,6 +1,30 @@
 import React from "react";
-import "../Javascript.css";
+import "../.././Style/style.css";
 import Footer from "../../Footer/Footer";
+
+//JS Homepage====================================================
+export function JSHomePage() {
+  return (
+    <>
+      <div className="container-fluid flex-column">
+        <div className="row ">
+          {/* <div className="col-2 bg-white ">
+              
+            </div> */}
+          <div className="col-lg-10 col offset-lg-2">
+            <h1>JSHomePage</h1>
+          </div>
+        </div>
+
+        <div className="row">
+          <div className="col-lg-10 col offset-lg-2">
+            <Footer />
+          </div>
+        </div>
+      </div>
+    </>
+  );
+}
 
 //Js Intro====================================================
 export function JSINTRO() {

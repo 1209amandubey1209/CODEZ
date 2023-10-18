@@ -1,5 +1,5 @@
 import React,{useState} from "react";
-import "../CSS.css";
+import "../.././Style/style.css";
 import { CSSContentList } from "../../../../Data/HTML/htmlContentList";
 import { NavLink } from "react-router-dom";
 import MenuIcon from '@mui/icons-material/Menu';
@@ -8,7 +8,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 function contentList(CSSContentList) {
   return (<> 
         <h3>{CSSContentList.course}</h3>
-     <NavLink
+        <NavLink
       style={{ color: "black", textDecoration: "none" }}
       to={CSSContentList.path}
     >

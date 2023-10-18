@@ -1,6 +1,6 @@
 import React from 'react'
 import KotlinSidebar from './Content/KotlinSidebar';
-import './Kotlin.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 

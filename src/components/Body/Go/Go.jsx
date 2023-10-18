@@ -1,6 +1,6 @@
 import React from 'react'
 import GoSidebar from './Content/GoSidebar';
-import './Go.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 

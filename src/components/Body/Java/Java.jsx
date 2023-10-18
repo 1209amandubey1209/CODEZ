@@ -1,6 +1,6 @@
 import React from 'react'
 import JavaSidebar from './Content/JavaSidebar';
-import './Java.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 

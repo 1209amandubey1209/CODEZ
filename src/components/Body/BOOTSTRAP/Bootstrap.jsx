@@ -1,6 +1,6 @@
 import React from 'react'
 import BootstrapSidebar from './Content/BootstrapSidebar';
-import './Bootstrap.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 

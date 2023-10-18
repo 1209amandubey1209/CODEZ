@@ -1,6 +1,6 @@
 import React from 'react'
 import AngularJSSidebar from './Content/AngularJSSidebar';
-import './AngularJS.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 function AngularJS() {

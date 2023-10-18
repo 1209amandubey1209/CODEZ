@@ -1,6 +1,6 @@
 import React from 'react'
 import MySQLSidebar from './Content/MySQLSidebar';
-import './MySQL.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 

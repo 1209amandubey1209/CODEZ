@@ -1,6 +1,6 @@
 import React from 'react'
 import ColorsSidebar from './Content/ColorsSidebar';
-import './Colors.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 function Colors() {

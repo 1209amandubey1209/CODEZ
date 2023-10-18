@@ -1,5 +1,5 @@
 import React from "react";
-import "../CSS.css";
+import "../.././Style/style.css";
 import Footer from "../../Footer/Footer";
 
 
@@ -13,7 +13,7 @@ export function CSSHomePage() {
               
             </div> */}
           <div className="col-lg-10 col offset-lg-2">
-            <div className="container bg-success text-light">
+            <div className="container">
                <h1>CSS HOME PAGE</h1>
                <h1>CSS HOME PAGE</h1>
                <h1>CSS HOME PAGE</h1>

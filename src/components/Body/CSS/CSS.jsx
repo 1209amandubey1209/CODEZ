@@ -1,6 +1,6 @@
 import React from "react";
 import CSSSidebar from "./Content/CSSSidebar";
-import "./CSS.css";
+import ".././Style/style.css";
 import { Outlet } from "react-router-dom";
 
 function CSS() {

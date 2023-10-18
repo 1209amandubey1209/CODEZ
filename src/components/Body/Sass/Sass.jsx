@@ -1,6 +1,6 @@
 import React from 'react'
 import SassSidebar from './Content/SassSidebar';
-import './Sass.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 

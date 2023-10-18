@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../C.css";
+import "../.././Style/style.css";
 import { CContentList } from "../../../../Data/Backend/backendContentList";
 import { NavLink } from "react-router-dom";
 import MenuIcon from '@mui/icons-material/Menu'

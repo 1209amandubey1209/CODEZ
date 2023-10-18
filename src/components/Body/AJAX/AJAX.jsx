@@ -1,6 +1,6 @@
 import React from 'react'
 import AJAXSidebar from './Content/AJAXSidebar';
-import './AJAX.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 function AJAX() {

@@ -1,6 +1,6 @@
 import React from 'react'
 import W3CSSSidebar from './Content/W3CSSSidebar';
-import './W3CSS.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 

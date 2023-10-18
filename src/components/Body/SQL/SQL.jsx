@@ -1,6 +1,6 @@
 import React from 'react'
 import SQLSidebar from './Content/SQLSidebar';
-import './SQL.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 

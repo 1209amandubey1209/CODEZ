@@ -1,6 +1,6 @@
 import React from 'react'
 import CanvasSidebar from './Content/CanvasSidebar';
-import './Canvas.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 function Canvas() {

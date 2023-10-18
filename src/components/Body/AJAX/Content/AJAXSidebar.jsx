@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../AJAX.css";
+import "../.././Style/style.css";
 import { AJAXContentList } from "../../../../Data/Javascript/javascriptContentList";
 import { NavLink } from "react-router-dom";
 import MenuIcon from '@mui/icons-material/Menu';
@@ -27,7 +27,7 @@ function AJAXSidebar() {
       </div>
       <div className='d-bock d-lg-none position-fixed overflow-auto '  onClick={()=>setStatus(!status)}><MenuIcon/></div>
       {status?
-      <div className="col d-block d-lg-none position-fixed overflow-auto bg-white" style={{ height: "91%" }} onClick={()=>setStatus(!status)}>
+      <div id="sidebar-item" className="col d-block d-lg-none position-fixed overflow-auto bg-white" style={{ height: "91%" }} onClick={()=>setStatus(!status)}>
       {AJAXContentList.map(contentList)}
     </div>
       :null

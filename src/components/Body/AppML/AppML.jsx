@@ -1,6 +1,6 @@
 import React from 'react'
 import AppMLSidebar from './Content/AppMLSidebar';
-import './AppML.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 function AppML() {

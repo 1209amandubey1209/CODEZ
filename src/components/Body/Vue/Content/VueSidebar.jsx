@@ -1,5 +1,5 @@
 import React,{useState} from "react";
-import "../Vue.css";
+import "../.././Style/style.css";
 import { VueContentList } from "../../../../Data/Javascript/javascriptContentList";
 import { NavLink } from "react-router-dom";
 import MenuIcon from '@mui/icons-material/Menu';

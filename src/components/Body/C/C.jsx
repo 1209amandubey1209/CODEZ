@@ -1,6 +1,6 @@
 import React from 'react'
 import CSidebar from './Content/CSidebar';
-import './C.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 

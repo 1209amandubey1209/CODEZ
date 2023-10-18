@@ -1,6 +1,6 @@
 import React from 'react'
 import VueSidebar from './Content/VueSidebar';
-import './Vue.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 function Vue() {

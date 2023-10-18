@@ -1,6 +1,6 @@
 import React from 'react'
 import GraphicsSidebar from './Content/GraphicsSidebar';
-import './Graphics.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 function Graphics() {

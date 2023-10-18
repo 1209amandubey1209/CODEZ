@@ -1,5 +1,5 @@
 import React from "react";
-import "../Sass.css";
+import "../.././Style/style.css";
 import Footer from "../../Footer/Footer";
 
 //Sass Intro====================================================

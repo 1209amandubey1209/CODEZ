@@ -1,6 +1,6 @@
 import React from 'react'
 import SVGSidebar from './Content/SVGSidebar';
-import './SVG.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 function SVG() {

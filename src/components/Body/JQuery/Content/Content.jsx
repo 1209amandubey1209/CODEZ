@@ -1,6 +1,30 @@
 import React from "react";
-import "../JQuery.css";
+import "../.././Style/style.css";
 import Footer from "../../Footer/Footer";
+
+//JQuery Homepage====================================================
+export function JQueryHomePage() {
+  return (
+    <>
+      <div className="container-fluid flex-column">
+        <div className="row ">
+          {/* <div className="col-2 bg-white ">
+              
+            </div> */}
+          <div className="col-lg-10 col offset-lg-2">
+            <h1>JQueryHomePage</h1>
+          </div>
+        </div>
+
+        <div className="row">
+          <div className="col-lg-10 col offset-lg-2">
+            <Footer />
+          </div>
+        </div>
+      </div>
+    </>
+  );
+}
 
 //JQuery Intro====================================================
 export function JQueryINTRO() {

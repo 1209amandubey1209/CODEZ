@@ -1,5 +1,5 @@
 import React,{useState} from "react";
-import "../JSON.css";
+import "../.././Style/style.css";
 import { JSONContentList } from "../../../../Data/Javascript/javascriptContentList";
 import { NavLink } from "react-router-dom";
 import MenuIcon from '@mui/icons-material/Menu';

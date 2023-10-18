@@ -1,6 +1,30 @@
 import React from "react";
-import "../Bootstrap.css";
+import "../.././Style/style.css";
 import Footer from "../../Footer/Footer";
+
+//BS5 Homepage====================================================
+export function BS5HomePage() {
+  return (
+    <>
+      <div className="container-fluid flex-column">
+        <div className="row ">
+          {/* <div className="col-2 bg-white ">
+              
+            </div> */}
+          <div className="col-lg-10 col offset-lg-2">
+            <h1>BS5HomePage</h1>
+          </div>
+        </div>
+
+        <div className="row">
+          <div className="col-lg-10 col offset-lg-2">
+            <Footer />
+          </div>
+        </div>
+      </div>
+    </>
+  );
+}
 
 //Bootstrap GetStarted====================================================
 export function BootstrapGetStarted() {

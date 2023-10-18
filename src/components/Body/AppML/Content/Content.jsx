@@ -1,6 +1,31 @@
 import React from "react";
-import "../AppML.css";
+import "../.././Style/style.css";
 import Footer from "../../Footer/Footer";
+
+
+//AppML Homepage====================================================
+export function AppMLHomePage() {
+  return (
+    <>
+      <div className="container-fluid flex-column">
+        <div className="row ">
+          {/* <div className="col-2 bg-white ">
+              
+            </div> */}
+          <div className="col-lg-10 col offset-lg-2">
+            <h1>AppMLHomePage</h1>
+          </div>
+        </div>
+
+        <div className="row">
+          <div className="col-lg-10 col offset-lg-2">
+            <Footer />
+          </div>
+        </div>
+      </div>
+    </>
+  );
+}
 
 //AppML intro====================================================
 export function AppMLINTRO() {

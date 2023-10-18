@@ -1,5 +1,5 @@
 import React,{useState} from "react";
-import "../Colors.css";
+import "../.././Style/style.css";
 import { ColorsContentList } from "../../../../Data/HTML/htmlContentList";
 import { NavLink } from "react-router-dom";
 import MenuIcon from '@mui/icons-material/Menu';

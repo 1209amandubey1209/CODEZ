@@ -1,6 +1,6 @@
 import React from 'react'
 import PHPSidebar from './Content/PHPSidebar';
-import './PHP.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import PythonSidebar from './Content/PythonSidebar';
-import './Python.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import HtmlSidebar from './Content/HtmlSidebar';
-import './HTML.css'
+import '.././Style/style.css'
 import { Outlet } from 'react-router-dom';
 
 
@@ -9,7 +9,7 @@ function HTML() {
   return (
     <div className="container-fluid flex-column">
         <div className="row">
-          <div className="col"><HtmlSidebar/></div>
+          <div className="col "><HtmlSidebar/></div>
           <div className="col">
           
           
